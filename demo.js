@@ -1,4 +1,4 @@
 console.log("Hellow");
 let isTrue = !false;
-let data = [1,4,4,4,4,40]
+let data = [1,4,4,4,4,40,393]
 for(let x of data){console.log(x)}
